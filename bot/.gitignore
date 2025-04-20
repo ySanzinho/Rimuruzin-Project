@@ -1,0 +1,9 @@
+# Files and Directories
+node_modules/
+dist/
+package-lock.json
+.env
+deploy-commands.ts
+remove-commands.ts
+Rimuruzin-Bot-V1.code-workspace
+# Logs
